@@ -1,5 +1,5 @@
 # AMA2233 Project: Exploring Spam Classification Models Through Comprehensive Visual Analysis
-You can check the project code and presentation ppt here. As for the presentation video, you can access it here: https://youtu.be/NClRvHc-hW0
+You can check the **project code** and **presentation ppt** here. As for the **presentation video**, you can access it here: https://youtu.be/NClRvHc-hW0
 
 ## Project Overview
 This is the project source code for the AMA2233 course. The project focuses on exploring various spam classification models and performing comprehensive visual analysis to evaluate their performance. It covers different machine learning algorithms and evaluates their accuracy and log loss on a dataset, with visualizations of the results.
