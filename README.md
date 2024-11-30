@@ -1,5 +1,5 @@
 # AMA2233 Project: Exploring Spam Classification Models Through Comprehensive Visual Analysis
-You can check the **project code**(submit.ipynb), **presentation ppt**(AMA2233_ppt_submit.pptx) and all plots are available here.
+You can check the **project code**(submit.ipynb), **presentation ppt**(AMA2233_ppt_submit.pptx) and all plots here.
 As for the **presentation video**, you can access it here: https://youtu.be/NClRvHc-hW0
 
 ## Project Overview
